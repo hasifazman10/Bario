@@ -7,6 +7,7 @@
     {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
     {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
     {"name":"oSolids","order":1,"path":"objects/oSolids/oSolids.yy",},
+    {"name":"Background","order":5,"path":"sprites/Background/Background.yy",},
     {"name":"Bario","order":4,"path":"sprites/Bario/Bario.yy",},
     {"name":"Block","order":1,"path":"sprites/Block/Block.yy",},
   ],
