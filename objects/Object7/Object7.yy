@@ -1,15 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"oSolids",
+  "%Name":"Object7",
   "eventList":[],
   "managed":true,
-  "name":"oSolids",
+  "name":"Object7",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oSolids",
+    "path":"objects/oSolids/oSolids.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,5 +35,5 @@
     "path":"sprites/Sprite6/Sprite6.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
